@@ -1,0 +1,7 @@
+streamlit
+pose-format
+vidgear
+pyzstd
+opencv-python
+mediapipe
+torch
